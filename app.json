@@ -1,0 +1,12 @@
+{
+  "name": "QuickDoc",
+  "displayName": "QuickDoc",
+  "expo": {
+    "name": "QuickDoc",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
