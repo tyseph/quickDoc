@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233465166056",
+    "firebase_url": "https://shop-fb583.firebaseio.com",
+    "project_id": "shop-fb583",
+    "storage_bucket": "shop-fb583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233465166056:android:d31036da36d736e18f315d",
+        "android_client_info": {
+          "package_name": "com.quickdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233465166056-2ijfet19e3ug45spju5segotaud8255u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeVz0l5WXyTQLWK7ePTnW9ApIz4UQ8GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233465166056-2ijfet19e3ug45spju5segotaud8255u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

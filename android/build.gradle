@@ -36,3 +36,11 @@ allprojects {
         maven { url 'https://www.jitpack.io' }
     }
 }
+
+buildscript {
+  dependencies {
+    // ... other dependencies
+    classpath 'com.google.gms:google-services:4.3.3'
+    // Add me --- /\
+  }
+}
